@@ -13,6 +13,9 @@
 
 Drynks allows user to search for drink by ingredient. New functionalities will be added in the future.
 
+![alt text](https://github.com/lukaszcettler/Drynks/blob/main/DrynksPresentation.gif)
+
+
 ## Features
    - List of drinks containing the given ingredient.
    - Details of selected Drink
