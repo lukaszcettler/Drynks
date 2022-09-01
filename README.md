@@ -18,13 +18,13 @@ Drynks allows user to search for drink by ingredient. New functionalities will b
 
 ## Features
    - List of drinks containing the given ingredient.
-   - Details of selected Drink
-   - iOS 11 support
+   - Details of selected Drink.
+   - iOS 11 support.
 
 ## Technologies Used
 
-* MVC app architecture
-* Parsing JSON from[TheCoctailDB API](https://www.thecocktaildb.com/) transforming it to fit the required model.
+* MVC app architecture.
+* Parsing JSON from [TheCoctailDB API](https://www.thecocktaildb.com/).
 * Keeping a clear separation of concerns between classes.
 
 ## Future updates
